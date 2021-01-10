@@ -1,0 +1,31 @@
+
+body{
+	margin-left: 200px;
+	margin-top: 100px;
+	background-color: white;
+	font-size: 1px}
+h1{
+	font-family: impect;
+	margin-left: 270px;
+	font-size: 65px;
+	font-weight: bold;
+	color: chocolate;
+}
+	.box{
+		height: 350px;
+		width: 600px;
+		background: green;
+		margin-left: 200px;
+		margin-top: 10px;
+	}
+	.circle{
+		height: 210px;
+		width: 210px;
+		background: red;
+		border-radius: 50%;
+		position: relative;
+		top: -380px;
+		left: 200px;
+		margin-left: 200px;
+		margin-top: 100px;
+	}
